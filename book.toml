@@ -1,0 +1,7 @@
+[book]
+title = "AI Critical Thinking Wiki"
+authors = ["iamflipse"]
+description = "Curated wiki distilling Pearson (2026) 'How to stay smart in the age of AI: the science of critical thinking' (Nature 657:873-875, doi 10.1038/d41586-026-02930-6): AI's impact on memory/reasoning and the science of keeping the brain sharp."
+
+[build]
+charset = "utf-8"
